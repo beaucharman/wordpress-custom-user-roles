@@ -5,9 +5,7 @@
 ## Usage
 
 ```php
-
 $Moderator = new LT3_Custom_User_Role('moderator', 'Moderator', array('read', 'edit_posts'));
-
 ```
 
 More information about roles and capabilities
