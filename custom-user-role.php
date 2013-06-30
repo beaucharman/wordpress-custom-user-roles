@@ -3,10 +3,10 @@
  * Custom User Role
  * ========================================================================
  * custom-user-role.php
- * @version 0.1 | June 2nd 2013
- * @author  Beau Charman | @beaucharman | http://www.beaucharman.me
- * @link    https://github.com/beaucharman/wordpress-custom-user-roles
- * @license MIT license
+ * @version   0.1 | June 2nd 2013
+ * @author    Beau Charman | @beaucharman | http://www.beaucharman.me
+ * @link      https://github.com/beaucharman/wordpress-custom-user-roles
+ * @license   MIT license
  *
  * More information about roles and capabilities
  * http://codex.wordpress.org/Roles_and_Capabilities
